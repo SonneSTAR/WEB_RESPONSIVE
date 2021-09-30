@@ -43,7 +43,7 @@
 }
 .h2-footer{
     margin-left: 100px;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 hr{ /*Intente de todo para que se agregara un grosor al hr xD*/
     border: none;
@@ -57,3 +57,8 @@ hr{ /*Intente de todo para que se agregara un grosor al hr xD*/
 .contacto{
     padding-top: 100px;
 }
+
+.navbar-color {
+    background-color: rgb(0, 57, 65);
+    transition: all 1s ease;
+  }
