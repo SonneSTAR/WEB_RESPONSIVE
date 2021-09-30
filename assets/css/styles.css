@@ -1,0 +1,59 @@
+.navbar{
+    position: fixed;
+    z-index: 20;
+}
+.navbar-nav{
+    padding-right: 100px;
+}
+.nav-link{
+    margin-right: 30px;
+}
+
+.main-content{
+    background-color: black;
+}
+.center-icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.first,.card-body{
+    background-color: #00aae4;
+}
+.image-start{
+    width: 50px;
+}
+.icon-viajes-chile{
+    margin-left: 150px;
+}
+.footer{
+    background-color: #00aae4;
+}
+.image-footer{
+    float: right;
+    width: 40px;
+    margin-right: 20px;
+}
+.icons{
+    margin-right: 300px;
+    padding-top: 20px;
+}
+.footer{
+    height: 70px;
+}
+.h2-footer{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+hr{ /*Intente de todo para que se agregara un grosor al hr xD*/
+    border: none;
+    height: 10px;
+   background-color:#00aae4 ;
+   
+}
+.destacados{
+    padding-top: 150px;
+}
+.contacto{
+    padding-top: 100px;
+}
