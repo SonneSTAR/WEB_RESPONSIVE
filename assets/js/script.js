@@ -20,6 +20,6 @@ function alert(message, type) {
 
 if (alertTrigger) {
   alertTrigger.addEventListener('click', function () {
-    alert('Nice, you triggered this alert message!', 'success')
+    alert('https://fervent-mcclintock-b3a569.netlify.app/', 'success')
   })
 }
