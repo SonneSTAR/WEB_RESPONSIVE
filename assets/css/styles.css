@@ -29,22 +29,12 @@
 .footer{
     background-color: #00aae4;
 }
-.image-footer{
-    float: right;
-    width: 40px;
-    margin-right: 20px;
-}
-.icons{
-    margin-right: 300px;
-    padding-top: 20px;
-}
+
+
 .footer{
     height: 70px;
 }
-.h2-footer{
-    margin-left: 100px;
-    margin-top: 15px;
-}
+
 hr{ /*Intente de todo para que se agregara un grosor al hr xD*/
     border: none;
     height: 10px;
@@ -62,3 +52,32 @@ hr{ /*Intente de todo para que se agregara un grosor al hr xD*/
     background-color: rgb(0, 57, 65);
     transition: all 1s ease;
   }
+
+.accordion-body{
+    background-color: black ;
+}
+.showlive-alert{
+    display: block;
+    align-items: center;
+}
+.icons{
+    color: white;
+}
+.fab{
+    font-size: 30px;
+    padding-right: 20px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(21, 22, 22);
+    transition: 500ms;
+}
+.card-body-black{
+    background-color: black;
+}
+@media (max-width:  720px) {
+    .footer-icons {
+      background-color: black;
+    }}
