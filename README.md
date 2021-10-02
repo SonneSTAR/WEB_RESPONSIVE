@@ -1,4 +1,4 @@
-# WEB_RESPONSIVE with Boostrap5.
+# WEB_RESPONSIVE with Boostrap5 and Jquery
 
 ##HTML - CSS - BOOSTRAP5 - JQUERY
 
